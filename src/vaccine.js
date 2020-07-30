@@ -1,10 +1,10 @@
 var myWindow;
 function openHome(){
-    window.location.href="index.html";
+    window.location.href="../index.html";
 }
 
 function openVerification(){
-    window.location.href="form.html";
+    window.location.href="src/form.html";
 }
    
 function openGateway(){
